@@ -1,0 +1,13 @@
+{
+  "capabilities": [
+    "storage",
+    "model"
+  ],
+  "id": "journey",
+  "integrity": {
+    "bundle_blake3": "4558d420128348473621a39bc1b91a829ab7471bc3f674b5b13f64bf8de9a7fa"
+  },
+  "name": "顺程",
+  "schema": 1,
+  "version": "0.1.0"
+}

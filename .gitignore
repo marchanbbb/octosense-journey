@@ -1,0 +1,9 @@
+build/
+target/
+.local-state/
+*.key
+*.cert
+.DS_Store
+
+__pycache__/
+*.pyc
